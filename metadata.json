@@ -1,0 +1,6 @@
+{
+  "name": "MedAir Logistics",
+  "description": "Protótipo acadêmico de plataforma de gestão logística médico-hospitalar por drones com rastreabilidade, monitoramento simulado, motor determinístico de apoio à decisão e logística reversa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
